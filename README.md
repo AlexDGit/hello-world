@@ -1,4 +1,2 @@
 # hello-world
-Just looking how to use this
-readme
-<h1>Is html works here?</h1>
+<h2>Readme.md представляет из себя файл, содержащий сведенья о проекте.</h2>
